@@ -1,0 +1,134 @@
+[
+    {
+        "n": 5000,
+        "nnz": 19998,
+        "k": 10,
+        "epsilon": 1e-08,
+        "status": "success",
+        "time_solver": 0.020732879638671875,
+        "gap": 0.00014452870428899962,
+        "energy_topk": 0.9480898507272868,
+        "family": "OM2"
+    },
+    {
+        "n": 10000,
+        "nnz": 39998,
+        "k": 10,
+        "epsilon": 1e-08,
+        "status": "success",
+        "time_solver": 0.023417949676513672,
+        "gap": 0.00017167709356681582,
+        "energy_topk": 1.1405782974817122,
+        "family": "OM2"
+    },
+    {
+        "n": 20000,
+        "nnz": 79998,
+        "k": 10,
+        "epsilon": 1e-08,
+        "status": "success",
+        "time_solver": 0.0773308277130127,
+        "gap": 6.447155761309315e-06,
+        "energy_topk": 1.003874018991054,
+        "family": "OM2"
+    },
+    {
+        "n": 5000,
+        "nnz": 19998,
+        "k": 10,
+        "epsilon": 1e-08,
+        "status": "success",
+        "time_solver": 0.014023065567016602,
+        "gap": 9.007492423028485e-05,
+        "energy_topk": 0.8380076614549252,
+        "family": "OM3"
+    },
+    {
+        "n": 10000,
+        "nnz": 39998,
+        "k": 10,
+        "epsilon": 1e-08,
+        "status": "success",
+        "time_solver": 0.03549313545227051,
+        "gap": 0.0005230592106783196,
+        "energy_topk": 1.122265962987502,
+        "family": "OM3"
+    },
+    {
+        "n": 20000,
+        "nnz": 79998,
+        "k": 10,
+        "epsilon": 1e-08,
+        "status": "success",
+        "time_solver": 0.07646369934082031,
+        "gap": 2.381356646576771e-05,
+        "energy_topk": 1.0171371796174264,
+        "family": "OM3"
+    },
+    {
+        "n": 5000,
+        "nnz": 19998,
+        "k": 10,
+        "epsilon": 1e-08,
+        "status": "success",
+        "time_solver": 0.01079106330871582,
+        "gap": 0.00032111102274189497,
+        "energy_topk": 0.9583740292119848,
+        "family": "OM4"
+    },
+    {
+        "n": 10000,
+        "nnz": 39998,
+        "k": 10,
+        "epsilon": 1e-08,
+        "status": "success",
+        "time_solver": 0.027085542678833008,
+        "gap": 0.0006033088380271974,
+        "energy_topk": 1.306655887712382,
+        "family": "OM4"
+    },
+    {
+        "n": 20000,
+        "nnz": 79998,
+        "k": 10,
+        "epsilon": 1e-08,
+        "status": "success",
+        "time_solver": 0.06220197677612305,
+        "gap": 0.0001637207729773707,
+        "energy_topk": 1.1231981213431097,
+        "family": "OM4"
+    },
+    {
+        "n": 5000,
+        "nnz": 19998,
+        "k": 10,
+        "epsilon": 1e-08,
+        "status": "success",
+        "time_solver": 0.014879465103149414,
+        "gap": 0.00041329437659324425,
+        "energy_topk": 0.9811354694887567,
+        "family": "OM5"
+    },
+    {
+        "n": 10000,
+        "nnz": 39998,
+        "k": 10,
+        "epsilon": 1e-08,
+        "status": "success",
+        "time_solver": 0.02356743812561035,
+        "gap": 0.0012177973675281649,
+        "energy_topk": 1.1412609384890173,
+        "family": "OM5"
+    },
+    {
+        "n": 20000,
+        "nnz": 79998,
+        "k": 10,
+        "epsilon": 1e-08,
+        "status": "success",
+        "time_solver": 0.05793452262878418,
+        "gap": 0.00010533983550142507,
+        "energy_topk": 0.9302867505584955,
+        "family": "OM5"
+    }
+]
