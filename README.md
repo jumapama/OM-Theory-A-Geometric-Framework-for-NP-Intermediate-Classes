@@ -18,6 +18,8 @@ I am publishing this here to invite brutal, rigorous peer review from the theore
 2. **Spectral Distinguishability ($d_{\mathrm{spec}}$):**
    To prevent trivial Karp reductions (like adding syntactic tautologies to pad an instance), the framework introduces a strict metric based on the Laplacian spectrum of the problem's mesh. Two frames are only valid if they are topologically non-homotopic and demonstrate a measurable spectral gap difference.
 
+<img width="4200" height="1800" alt="analisis_om_resultados" src="https://github.com/user-attachments/assets/e9380980-6d00-4aed-a18f-d320038ea112" />
+
 3. **Axiom 7 (Asymptotic Density Stability):**
    A new axiomatic rule to prevent Ladner's theorem "padding" tricks. It mathematically forces the density of a class to remain asymptotically stable, preventing artificial oscillations between $\mathsf{P}$ and $\mathsf{NP}$ across input sizes.
 
